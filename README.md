@@ -1,65 +1,82 @@
-# <img src='/images/metasfresh-logo-slogan-969x248.png' height='60' alt='metasfresh - We do Open Source ERP' aria-label='metasfresh.com' /></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="" class="anchor" aria-hidden="true" tabindex="-1" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="/metasfresh/metasfresh/blob/master/images/metasfresh-logo-slogan-969x248.png"><img src="/metasfresh/metasfresh/raw/master/images/metasfresh-logo-slogan-969x248.png" height="60" alt="metasfresh - 我们做开源 ERP" aria-label="元新鲜网" style="max-width: 100%;"></a></h1>
 
-<!-- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/30ecd0d9ba8a4561a60335644b592418)](https://www.codacy.com/gh/metasfresh/metasfresh?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=metasfresh/metasfresh&amp;utm_campaign=Badge_Grade) -->
-[![release](https://img.shields.io/badge/release-5.175-blue.svg)](https://github.com/metasfresh/metasfresh/releases/tag/5.175)
-[![license](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/metasfresh/metasfresh/blob/master/LICENSE.md)
-<!-- [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/metasfresh) -->
+<p dir="auto"><a href="https://github.com/metasfresh/metasfresh/releases/tag/5.175"><img src="https://camo.githubusercontent.com/dcbe1dc199873f2acd4113e73c1433ebb0678a902cb83a7dc7571d1d5afe4a15/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656c656173652d352e3137352d626c75652e737667" alt="发布" data-canonical-src="https://img.shields.io/badge/release-5.175-blue.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/metasfresh/metasfresh/blob/master/LICENSE.md"><img src="https://camo.githubusercontent.com/77d14d48653bd6dae2efd9bd034c97a20a7891cdeba60a37963631cd67ff5e21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c2d626c75652e737667" alt="执照" data-canonical-src="https://img.shields.io/badge/license-GPL-blue.svg" style="max-width: 100%;"></a></p>
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/metasfresh?style=social)](https://twitter.com/metasfresh)
+<p dir="auto"><a href="https://twitter.com/metasfresh" rel="nofollow"><img src="https://camo.githubusercontent.com/b63a180aa5050921dd9189ff728c9caf6ec8f418a3c7aea8750d6c7e80cafbf1/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6d6574617366726573683f7374796c653d736f6369616c" alt="X（以前的 Twitter）关注" data-canonical-src="https://img.shields.io/twitter/follow/metasfresh?style=social" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">metasfresh 是一个响应迅速、免费且开源的 ERP 系统。</font><font style="vertical-align: inherit;">我们的目标是创建快速、易于使用且具有出色用户体验的企业软件。</font></font></p>
+<blockquote>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们做开源ERP</font></font></strong></p>
+</blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Metasfresh 配备了广泛而详细的功能，适合正在寻找可提供高可扩展性和灵活性的商业软件的工业和贸易公司。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它具有带有 Rest-API 的 3 层架构和使用 HTML5/ReactJS/Redux 开发的 Web 用户前端。</font></font></p>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/metasfresh/metasfresh/blob/master/images/sales-order-recording-metasfresh.gif" data-target="animated-image.originalLink"><img src="https://github.com/metasfresh/metasfresh/raw/master/images/sales-order-recording-metasfresh.gif" alt="Metasfresh 销售订单" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/metasfresh/metasfresh/blob/master/images/sales-order-recording-metasfresh.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Metasfresh 销售订单" class="AnimatedImagePlayer-animatedImage" src="https://github.com/metasfresh/metasfresh/raw/master/images/sales-order-recording-metasfresh.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="529"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 metasfresh-销售订单" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 metasfresh-销售订单">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开metasfresh-销售订单" class="AnimatedImagePlayer-button" href="https://github.com/metasfresh/metasfresh/blob/master/images/sales-order-recording-metasfresh.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/metasfresh/metasfresh/blob/master/images/screenshot-kpi-dashboard-new.png"><img src="/metasfresh/metasfresh/raw/master/images/screenshot-kpi-dashboard-new.png" width="33%" alt="关键绩效指标仪表板" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="/metasfresh/metasfresh/blob/master/images/screenshot-sales-order-new.png"><img src="/metasfresh/metasfresh/raw/master/images/screenshot-sales-order-new.png" width="33%" alt="销售订单窗口" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="/metasfresh/metasfresh/blob/master/images/screenshot-material-receipt-new.png"><img src="/metasfresh/metasfresh/raw/master/images/screenshot-material-receipt-new.png" width="33%" alt="物料领取窗口" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-installation" class="anchor" aria-hidden="true" tabindex="-1" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们每周五都会发布 Metasfresh 的稳定版本 - 好吧，我们在年底跳过 1 周;-)。</font></font><a href="https://metasfresh.com/en/download/#latest-server-update" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你可以在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">metasfresh 可以通过Docker</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ubuntu Installer</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker</font></font></strong> <a href="https://docs.metasfresh.org/installation_collection/EN/How_do_I_setup_the_metasfresh_stack_using_Docker" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何使用 Docker 设置 Metasfresh 堆栈？</font></font></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ubuntu</font></font></strong> <a href="https://docs.metasfresh.org/installation_collection/EN/installer_how_do_install_metasfresh_package.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何使用安装包安装metasfresh？</font></font></a></p>
+<blockquote>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一步：</font></font></strong></p>
+<ul dir="auto">
+<li><a href="https://docs.metasfresh.org/webui_collection/EN/Login.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我该怎么登录？</font></font></a></li>
+<li><a href="https://docs.metasfresh.org/webui_collection/EN/SwitchLanguage" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何更改界面语言？</font></font></a></li>
+<li><a href="https://docs.metasfresh.org/webui_collection/EN/InitialSetupWizard" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我如何设立我的公司？</font></font></a></li>
+<li><a href="https://docs.metasfresh.org/webui_collection/EN/SalesOrder_recording" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何创建我的第一个销售订单？</font></font></a></li>
+<li><a href="https://docs.metasfresh.org/webui_collection/EN/Ship_SalesOrder" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何创建我的第一批货件？</font></font></a></li>
+<li><a href="https://docs.metasfresh.org/webui_collection/EN/Invoice_SalesOrder" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何创建我的第一张发票？</font></font></a></li>
+</ul>
+</blockquote>
+<h2 tabindex="-1" dir="auto"><a id="user-content-documentationbadge" class="anchor" aria-hidden="true" tabindex="-1" href="#documentationbadge"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档徽章</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您是 Metasfresh 新手并且想了解更多信息，那么您可以在这里找到我们的文档：</font></font></p>
+<ul dir="auto">
+<li><a href="https://docs.metasfresh.org/pages/installation/index_en" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理员</font></font></a></li>
+<li><a href="https://docs.metasfresh.org/pages/webui/index_en" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户</font></font></a></li>
+<li><a href="https://docs.metasfresh.org/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发商</font></font></a></li>
+<li><a href="https://docs.metasfresh.org/pages/tests/index_en" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试员</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-discussion" class="anchor" aria-hidden="true" tabindex="-1" href="#discussion"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎访问我们的</font></font><a href="https://forum.metasfresh.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区论坛，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提出问题、讨论并交流新见解。</font><font style="vertical-align: inherit;">我们期待与您见面！</font></font></p>
 
-metasfresh is a responsive, Free and Open Source ERP System. Our aim is to create fast and easy-to-use enterprise software with an outstanding user experience.
-
-> **__We do Open Source ERP__**
-
-Equipped with wide and detailed functionality, metasfresh fits for companies from industry and trade that are searching business software that provides high scalability and flexibility.
-
-It has a 3-tier architecture with Rest-API and a Web User Frontend developed in HTML5/ ReactJS/ Redux.
-
-![metasfresh-sales-order](https://github.com/metasfresh/metasfresh/blob/master/images/sales-order-recording-metasfresh.gif)
-<!-- ![metasfresh-sales-order](https://user-images.githubusercontent.com/13365687/36896187-f5ed2e48-1e11-11e8-9c41-a7878c148f81.gif) -->
-
-<img src="/images/screenshot-kpi-dashboard-new.png" width="33%" alt="KPI Dashboard"></img> <img src="/images/screenshot-sales-order-new.png" width="33%" alt="Sales Order Window"></img> <img src="/images/screenshot-material-receipt-new.png" width="33%" alt="Material Receipt Window"></img>
-
-## Installation
-We publish a stable Release of metasfresh every Friday - ok, we skip 1 week at the end of the year ;-) . You can download it [here](https://metasfresh.com/en/download/#latest-server-update).
-
-metasfresh can be installed via **Docker** or **Ubuntu Installer**.
-
-**Docker** [How do I setup the metasfresh stack using Docker?](https://docs.metasfresh.org/installation_collection/EN/How_do_I_setup_the_metasfresh_stack_using_Docker)
-
-**Ubuntu** [How do I install metasfresh using the Installation package?](https://docs.metasfresh.org/installation_collection/EN/installer_how_do_install_metasfresh_package.html)
-
->**First steps:**
->- [How do I log on?](https://docs.metasfresh.org/webui_collection/EN/Login.html)
->- [How do I change the Interface Language?](https://docs.metasfresh.org/webui_collection/EN/SwitchLanguage)
->- [How do I Setup my Company?](https://docs.metasfresh.org/webui_collection/EN/InitialSetupWizard)
->- [How do I create my first Sales Order?](https://docs.metasfresh.org/webui_collection/EN/SalesOrder_recording)
->- [How do I create my first Shipment?](https://docs.metasfresh.org/webui_collection/EN/Ship_SalesOrder)
->- [How do I create my first Invoice?](https://docs.metasfresh.org/webui_collection/EN/Invoice_SalesOrder)
-
-## Documentationbadge
-If you are new to metasfresh and would like to learn more, then you can find our documentation here:
-
-- [Admins](https://docs.metasfresh.org/pages/installation/index_en)
-- [Users](https://docs.metasfresh.org/pages/webui/index_en)
-- [Developers](https://docs.metasfresh.org/index.html)
-- [Tester](https://docs.metasfresh.org/pages/tests/index_en)
-
-## Discussion
-Come visit us in our [Community Forum](https://forum.metasfresh.org/) for questions, discussions and exchange of new insights. We look forward to meeting you!
-<!-- GITTER LEGACY: Join one of the gitter rooms [metasfresh](https://gitter.im/metasfresh/metasfresh), [metasfresh-webui-frontend](https://gitter.im/metasfresh/metasfresh-webui-frontend), [metasfresh-documentation](https://gitter.im/metasfresh/metasfresh-documentation) or visit us in our [forum](https://forum.metasfresh.org/). -->
-
-## Contributing
-Do you want to help improving documentation, contribute some code or participate in functional requirements. That's great, you're welcome! Please read our [Code of Conduct](https://github.com/metasfresh/metasfresh/blob/master/CODE_OF_CONDUCT.md) and [Contributor Guidelines](https://github.com/metasfresh/metasfresh/blob/master/CONTRIBUTING.md) first.
-
-### "Monorepo"
-To check out only certain parts of this repository, we recommend getting git version 2.25.0 or later and use the [git-sparse-checkout](https://www.git-scm.com/docs/git-sparse-checkout) feature.
-Examples:
-* to get started, do `git sparse-checkout init --clone`
-  * this will leave you with just the files in the repo's root folder, such as the file you are reading
-* to get the frontend code, do `git sparse-checkout set frontend`
-* to go back to having everything checked out, do `git sparse-checkout disable`
-
-## What's new in metasfresh ERP?
-If you are interested in latest improvements or bug fixes of metasfresh ERP, feel free to check out our [Release Notes](https://github.com/metasfresh/metasfresh/blob/master/ReleaseNotes.md).
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您想帮助改进文档、贡献一些代码或参与功能需求吗？</font><font style="vertical-align: inherit;">太好了，不客气！</font><font style="vertical-align: inherit;">请首先阅读我们的</font></font><a href="https://github.com/metasfresh/metasfresh/blob/master/CODE_OF_CONDUCT.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为准则</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://github.com/metasfresh/metasfresh/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-monorepo" class="anchor" aria-hidden="true" tabindex="-1" href="#monorepo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“莫诺雷波”</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要仅检查此存储库的某些部分，我们建议获取 git 版本 2.25.0 或更高版本并使用</font></font><a href="https://www.git-scm.com/docs/git-sparse-checkout" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">git-sparse-checkout</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能。</font><font style="vertical-align: inherit;">例子：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先，做</font></font><code>git sparse-checkout init --clone</code>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这将只留下存储库根文件夹中的文件，例如您正在读取的文件</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要获取前端代码，请执行以下操作</font></font><code>git sparse-checkout set frontend</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要返回检查所有内容，请执行以下操作</font></font><code>git sparse-checkout disable</code></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-whats-new-in-metasfresh-erp" class="anchor" aria-hidden="true" tabindex="-1" href="#whats-new-in-metasfresh-erp"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Metasfresh ERP 有哪些新功能？</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您对 metasfresh ERP 的最新改进或错误修复感兴趣，请随时查看我们的</font></font><a href="https://github.com/metasfresh/metasfresh/blob/master/ReleaseNotes.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发行说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
